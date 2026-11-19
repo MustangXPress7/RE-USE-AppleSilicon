@@ -1,4 +1,4 @@
-# RE-USE Speech Enhancement (Mac Beta) — launcher puente
+# RE-USE Speech Enhancement (Mac Untested) — launcher puente
 
 Instalador delgado para probar en Mac la rama `mac-mlx` del launcher principal.
 
