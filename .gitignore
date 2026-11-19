@@ -1,0 +1,17 @@
+# Cloned at install from the mac-mlx branch
+app/
+
+# Pinokio runtime
+.env/
+cache/
+logs/
+output/
+.planning/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# OS
+.DS_Store
+Thumbs.db

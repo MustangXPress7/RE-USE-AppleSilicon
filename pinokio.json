@@ -1,0 +1,13 @@
+{
+  "version": "1.1",
+  "title": "RE-USE Speech Enhancement (Mac Beta)",
+  "description": "Beta installer for the Apple Silicon build of RE-USE. Clones the mac-mlx branch of the main launcher and runs its LiteRT/Metal app.",
+  "icon": "icon.png",
+  "platform": ["darwin"],
+  "arch": ["arm64"],
+  "categories": ["audio", "ai", "speech-enhancement"],
+  "tags": ["gradio", "metal", "litert", "apple-silicon", "beta"],
+  "license": "custom",
+  "homepage": "https://huggingface.co/spaces/nvidia/Real-time_RE-USE",
+  "repository": "https://github.com/MustangXPress7/NemotronLabs-RE-USE-Pinokio_Win-Nvidia"
+}
